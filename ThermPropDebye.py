@@ -76,7 +76,7 @@ mass_kg = 1.66054e-27
 Pa = 1e9
 
 mass_tot = mass * mass_kg  # In kg
-density = mass_tot / volume # kg / m^3
+density = abs(mass_tot / volume) # kg / m^3
 C = C * Pa # Conversion from GPa to Pa
 
 
