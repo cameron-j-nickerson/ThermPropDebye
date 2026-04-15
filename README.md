@@ -20,4 +20,4 @@ second column is the free-energy in kJ/mol per molecule. The third column is the
 and the fourth column is the energy in kJ/mol per molecule.
 
 An explanation of the relevant theory can be found in the following literature:
-NOT YET AVAILABLE
+https://doi.org/10.1039/D6CP00089D
